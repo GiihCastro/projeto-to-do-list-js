@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript" src="./index.js" defer=""></script>
+    <link rel="stylesheet" href="./style.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Lista de afazeres</h1>
+        <input type="text" id="new-task" placeholder=" Adicione uma nova tarefa...">
+        <button id="add-task-btn">Adicionar tarefa</button>
+        <ul id="task-list"></ul>
+      </div>
+    <div class="boards">
+        <div class="board">
+            <h3>Para fazer</h3>
+            <div class="dropzone">
+                <ul class="card" draggable="true"></ul>
+            </div>
+        </div>
+        <div class="board">
+            <h3>Em progresso</h3>
+            <div class="dropzone">
+                <ul class="card" draggable="true"></ul>
+            </div>
+        </div>
+        <div class="board">
+            <h3>Finalizado</h3>
+            <div class="dropzone">
+                <ul class="card" draggable="true"></ul>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js" defer></script>
+
+</body>
+</html>
