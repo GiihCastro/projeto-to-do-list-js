@@ -4,7 +4,7 @@
 
 ## 🖥️ Projeto
 
-Este é um projeto de uma aplicação Kanban para lista de afazeres, que permite aos usuários organizar suas tarefas em três listas: "Para Fazer", "Em Progresso" e "Finalizado". A aplicação permite arrastar e soltar as tarefas entre as listas para uma melhor organização do fluxo de trabalho. O projeto foi desenvolvido utilizando HTML, CSS e JavaScript.
+Este é um projeto de uma aplicação Kanban para lista de afazeres, que permite aos usuários organizar suas tarefas em três listas: "Para Fazer", "Em Progresso" e "Finalizado". A aplicação permite arrastar e soltar as tarefas entre as listas para uma melhor organização do fluxo de trabalho.
 
 ### 🔎 Tecnologias
 
