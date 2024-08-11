@@ -21,7 +21,3 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Pressione o botão "Adicionar tarefa" para adicionar a tarefa à lista.
 - As tarefas podem ser arrastadas e soltas entre as listas, basta pressioná-las.
 - Para remover uma tarefa da lista, clique no botão "Remover" ao lado da tarefa que você deseja excluir. A tarefa será removida imediatamente da lista.
-
-### 🧑‍💻 Creditos
-
-Professor [Luan Oliveira](https://www.linkedin.com/in/luanpdd/).
